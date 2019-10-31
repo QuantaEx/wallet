@@ -19,28 +19,27 @@ rpcallowip=127.0.0.1
 rpcport=13519
 listen=1
 server=1
-addnode=nbc1.npay.life
+addnode=node list below
 ```
 
 Download the latest version of cpuminer  and extract the zip file.
 
 More nodes added:
+
 ```bash
-nodes:
-addnode=86.57.193.186:13520
-addnode=189.4.67.32:47672
-addnode=139.59.3.93:13520
-addnode=189.4.67.32:47680
-addnode=178.62.46.37:42686
-addnode=189.4.67.32:13520
-addnode=136.144.171.201:43202
-addnode=189.4.67.32:13520
-addnode=157.52.252.108:57693
-addnode=189.4.67.32:13520
+Below are the only official whitelisted nodes
+*************************************
 addnode=nbc1.npay.life
 addnode=nbc2.npay.life
 addnode=nbc3.npay.life
 addnode=nbc4.npay.life
+addnode=nbc5.npay.life
+addnode=nbc6.npay.life
+addnode=nbc7.npay.life
+addnode=nbc8.npay.life
+addnode=68.183.253.3
+addnode=68.183.247.125
+addnode=68.183.254.141
 
 more nodes will host soon. Pleaase in your /nexbit.conf/ file addnodes for faster sync.
 
