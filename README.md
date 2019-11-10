@@ -11,7 +11,7 @@ The message “Synchronizing with network...” will disappear once you mine you
 Close your wallet and create the file nexbit.conf in the folder “%APPDATA%\nexbit\”. *For windows wallet
 
 Paste the following text into nexbit.conf and save the file.
-
+Below CONF is for node
 ```bash
 rpcuser=username
 rpcpassword=rpcpass
@@ -29,17 +29,16 @@ More nodes added:
 ```bash
 Below are the only official whitelisted nodes
 *************************************
-addnode=nbc1.npay.life
-addnode=nbc2.npay.life
-addnode=nbc3.npay.life
-addnode=nbc4.npay.life
-addnode=nbc5.npay.life
-addnode=nbc6.npay.life
-addnode=nbc7.npay.life
-addnode=nbc8.npay.life
-addnode=68.183.253.3
-addnode=68.183.247.125
-addnode=68.183.254.141
+addnode=167.71.78.206
+addnode=157.245.76.203
+addnode=167.172.239.154
+addnode=165.227.225.78
+addnode=157.230.99.176
+addnode=206.189.117.70
+addnode=167.71.140.104
+addnode=138.197.135.237
+addnode=159.65.136.159
+addnode=165.22.219.149
 
 more nodes will host soon. Pleaase in your /nexbit.conf/ file addnodes for faster sync.
 
